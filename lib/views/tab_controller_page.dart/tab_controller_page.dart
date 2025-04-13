@@ -22,7 +22,7 @@ class TabControllerPage extends StatelessWidget {
           // elevation: 10,
           height: 70,
           iconSize: 30,
-          backgroundColor: Color(0xFF162248),
+          //backgroundColor: Color(0xFF162248),
           activeColor: Colors.white,
           inactiveColor: Colors.grey,
           icons: iconList,

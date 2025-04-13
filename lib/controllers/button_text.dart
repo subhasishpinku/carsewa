@@ -7,7 +7,7 @@ Widget button(String label) {
       height: 40,
       child: ElevatedButton(
         style: ElevatedButton.styleFrom(
-          primary: Color(0xFF162248),
+         // primary: const Color(0xFF162248),
         ),
         onPressed: () {
           Get.toNamed("COMPLAINREQUEST");

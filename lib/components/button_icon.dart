@@ -8,7 +8,7 @@ Widget button_with_icon(String lavel) {
       width: 191,
       child: ElevatedButton(
         style: ElevatedButton.styleFrom(
-          primary: Color(0xFF162248),
+         // primary: Color(0xFF162248),
         ),
         onPressed: () {},
         child: Row(

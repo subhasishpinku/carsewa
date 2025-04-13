@@ -12,7 +12,7 @@ class Listpage extends StatelessWidget {
     return Scaffold(
       // backgroundColor: Color(0xFFFF5F5F5),
       appBar: AppBar(
-        backgroundColor: Colors.white,
+      //  backgroundColor: Colors.white,
         iconTheme: IconThemeData(color: Colors.black),
         title: Text(
           "Lorem Ipsum",

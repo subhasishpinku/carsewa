@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
         //elevated button theme
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-            primary: Color(0xFF162248),
+            backgroundColor: Color(0xFF162248),
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(8),
             ),
@@ -56,3 +56,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//https://www.youtube.com/watch?v=Qv2zsEZtkEs
